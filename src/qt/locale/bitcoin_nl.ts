@@ -16,8 +16,8 @@
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2014-2016 The Verge developers</source>
-        <translation>Copyright © 2014-2016 The Verge developers</translation>
+        <source>Copyright © 2018 Verge</source>
+        <translation>Copyright © 2018 Verge</translation>
     </message>
     <message>
         <location line="+13"/>
